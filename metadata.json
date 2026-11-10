@@ -1,0 +1,8 @@
+{
+  "name": "QR Pocket",
+  "description": "Your payment codes. Always with you. A minimal, private, offline UPI QR code vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
